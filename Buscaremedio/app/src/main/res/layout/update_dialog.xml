@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="@dimen/activity_horizontal_margin">
+
+
+    <EditText
+        android:id="@+id/medtext"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/medicamento" />
+
+
+    <EditText
+        android:id="@+id/aprestext"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/apresentação" />
+
+    <EditText
+        android:id="@+id/aplitext"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/aplicação" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/buttonUpdateArtist"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:backgroundTint="@android:color/holo_orange_light"
+            android:text="@string/atualizar" />
+
+        <Button
+            android:id="@+id/buttonDeleteArtist"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:backgroundTint="@android:color/holo_orange_light"
+            android:text="@string/excluir" />
+
+    </LinearLayout>
+
+
+</LinearLayout>

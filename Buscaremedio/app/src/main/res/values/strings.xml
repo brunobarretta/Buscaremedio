@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Busca Farmácia</string>
+    <string name="title_activity_menu">Menu</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_inicio">Busca Farmácia</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="sair">sair</string>
+    <string name="desenvolvido">Aplicativo desenvolvido por Bruno Barretta</string>
+    <string name="contato">Contato</string>
+    <string name="direitos">Todos os direitos reservados</string>
+    <string name="btn_voltar">Voltar</string>
+    <string name="btn_reset_password">Redefinir Senha</string>
+    <string name="lbl_forgot_password">Esqueceu a senha?</string>
+    <string name="forgot_password_msg">Coloque seu e-mail no campo abaixo</string>
+    <string name="hint_email">Digite seu e-mail aqui</string>
+    <string name="voltar">Voltar</string>
+
+    <string name="procurar_remédio">Cadastrar Remédio</string>
+    <string name="remédio">Remédios</string>
+    <string name="Mapa">Mapa</string>
+    <string name="Idioma">Idioma</string>
+    <string name="cadastrar_farmácia">Cadastrar Farmacia</string>
+    <string name="farmácia">Farmácias</string>
+    <string name="Sobre">Sobre</string>
+    <string name="Sair">Sair</string>
+    <string name="Opções">Opções</string>
+    <string name="avalie">Avalie o app</string>
+
+    <string name="atualizar">Atualizar</string>
+    <string name="excluir">Excluir</string>
+
+    <string name="selecione_idioma">Selecione o idioma abaixo:</string>
+    <string name="menu">Menu Principal</string>
+    <string name="medicamento">Medicamento</string>
+    <string name="apresentação">Apresentação</string>
+    <string name="aplicação">Aplicação</string>
+    <string name="titulo">Título</string>
+    <string name="endereço">Endereço</string>
+    <string name="telefone">Telefone</string>
+
+</resources>

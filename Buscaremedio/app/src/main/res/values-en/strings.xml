@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Busca Remedio</string>
+    <string name="title_activity_menu">Menu</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_inicio">Busca Remédio</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="sair">sair</string>
+
+    <string name="desenvolvido">Developed by Bruno Barretta</string>
+    <string name="contato">Contact</string>
+    <string name="direitos">All rights reserved</string>
+    <string name="btn_voltar">Back</string>
+
+    <string name="btn_reset_password">Enviar senha</string>
+    <string name="lbl_forgot_password">Esqueceu a senha?</string>
+    <string name="forgot_password_msg">Coloque seu e-mail no campo abaixo</string>
+    <string name="hint_email">Put your e-mail here</string>
+    <string name="voltar">Back</string>
+
+    <string name="procurar_remédio">Register Medicine</string>
+    <string name="remédio">Medicine</string>
+    <string name="Mapa">Map</string>
+    <string name="Idioma">Language</string>
+    <string name="cadastrar_farmácia">Register Pharmacy</string>
+    <string name="farmácia">Pharmacy</string>
+    <string name="Sobre">About us</string>
+    <string name="Sair">Logout</string>
+    <string name="Opções">Options</string>
+    <string name="avalie">Rate us</string>
+
+    <string name="atualizar">Update</string>
+    <string name="excluir">Delete</string>
+
+    <string name="selecione_idioma">Select the language below:</string>
+    <string name="menu">Menu</string>
+    <string name="medicamento">Medicine</string>
+    <string name="apresentação">Distributed</string>
+    <string name="aplicação">Application</string>
+    <string name="titulo">Title</string>
+    <string name="endereço">Address</string>
+    <string name="telefone">Phone Number</string>
+</resources>

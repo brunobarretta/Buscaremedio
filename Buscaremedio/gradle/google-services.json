@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "751074786838",
+    "firebase_url": "https://busca-remedio.firebaseio.com",
+    "project_id": "busca-remedio",
+    "storage_bucket": "busca-remedio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751074786838:android:bc20dae6b23aa5de",
+        "android_client_info": {
+          "package_name": "buscaremedio.com.br.buscaremedio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751074786838-nuae3j01vjl5crkcqv5vh2q9omudde21.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "buscaremedio.com.br.buscaremedio",
+            "certificate_hash": "a88c2e3f7a91d4755ed708e56d141949cbaf4cf1"
+          }
+        },
+        {
+          "client_id": "751074786838-upvfm80vevdqhhb6b3pok23k5if5hml8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqYBDLTjOCq1t1TjYAztNaDJrSiK2-hUM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751074786838-upvfm80vevdqhhb6b3pok23k5if5hml8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

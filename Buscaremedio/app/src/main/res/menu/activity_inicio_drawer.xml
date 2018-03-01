@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/remedio"
+            android:icon="@drawable/rem"
+            android:title="@string/remédio" />
+
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/map"
+            android:title="@string/Mapa" />
+
+        <item
+            android:id="@+id/farmacia"
+            android:icon="@drawable/remedio"
+            android:title="@string/farmácia" />
+
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/addfarmacia"
+            android:title="@string/cadastrar_farmácia" />
+
+        <item
+            android:id="@+id/nav_camera"
+            android:icon="@drawable/rem"
+            android:title="@string/procurar_remédio" />
+
+    </group>
+
+    <item android:title="@string/Opções">
+        <menu>
+
+            <item
+                android:id="@+id/avalie"
+                android:icon="@drawable/avalie"
+                android:title="@string/avalie" />
+
+            <item
+                android:id="@+id/nav_manage"
+                android:icon="@drawable/idioma"
+                android:title="@string/Idioma" />
+
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/sobre"
+                android:title="@string/Sobre" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/sair"
+                android:title="@string/Sair" />
+        </menu>
+    </item>
+
+</menu>
